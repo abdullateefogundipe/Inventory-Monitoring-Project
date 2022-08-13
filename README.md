@@ -1,4 +1,4 @@
-# Inventory-monitoring-kaggle
+# Inventory-Monitoring-Project
 # Project Overview: Inventory Monitoring at Distribution Centers
 
 The project aims to build a model that can accurately classify the number of objects in a bin. This system uses the power of deep learning to track inventory and ensure delivery consignment has the correct number of items. In extensive retail facilities such as Walmart and Amazon, inventory and monitoring are very labour intensive, involve high risk, require multiple people, and are prone to error. The process will improve significantly by automation whereby a vision-based method using deep learning to count the number of items in a bin before delivery
